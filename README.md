@@ -12,6 +12,7 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 
 ## Por onde começar
 
+- [gomex](https://gomex.me/2018/01/05/os-primeiros-passos-para-uma-carreira-devops/) - Os primeiros passos para uma carreira DevOps
 - [gutocarvalho](http://gutocarvalho.net/blog/2016/09/06/por-onde-iniciar-os-estudos-sobre-devops/) - Por onde iniciar os estudos sobre Devops?
 - [origens](http://gutocarvalho.net/blog/2016/06/02/origens-da-cultura-devops/) - Origens da cultura Devops
 - [perguntas comuns](http://gutocarvalho.net/octopress/2015/04/15/perguntas-pontuais-devops/)
